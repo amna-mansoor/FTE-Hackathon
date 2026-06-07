@@ -22,15 +22,11 @@ The system follows a **Trigger -> Brain -> Memory** loop:
 
 ---
 
-## 🚀 Setup Instructions
+## Setup:
 
-### 1. Prerequisites
+### Prerequisites
 - Python 3.10+
 - Obsidian
 - OpenRouter API Key
 
-### 2. Installation
-```bash
-git clone [https://github.com/your-username/agent-factory.git](https://github.com/your-username/agent-factory.git)
-cd agent-factory
-pip install openai watchdog python-dotenv
+
